@@ -1,0 +1,118 @@
+{
+    "data": {
+        "breakingNews": [
+            {
+                "title": "US teen held in shooting of five people",
+                "publishedAt": "1:15PM",
+                "link": "#"
+            },
+            {
+                "title": "Israeli parties lure undecided voters",
+                "publishedAt": "1:15PM",
+                "link": "#"
+            },
+            {
+                "title": "Suicide bombing, gunfire rock Kabul",
+                "publishedAt": "1:15PM",
+                "link": "#"
+            },
+                        {
+                "title": "Govt ordered to release Hobbit documents",
+                "publishedAt": "1:15PM",
+                "link": "#"
+            },
+            {
+                "title": "Malaysian killed in Algeria crisis",
+                "publishedAt": "1:15PM",
+                "link": "#"
+            },
+            {
+                "title": "Prison escapee caught after 16 years",
+                "publishedAt": "1:15PM",
+                "link": "#"
+            },
+            {
+                "title": "Human Rights Watch warns on Mali",
+                "publishedAt": "1:15PM",
+                "link": "#"
+            },
+            {
+                "title": "Climb turns on pain for riders",
+                "publishedAt": "1:15PM",
+                "link": "#"
+            },
+            {
+                "title": "Son refused bail over mother’s death",
+                "publishedAt": "1:15PM",
+                "link": "#"
+            },
+            {
+                "title": "MPs meet on Gold Coast V8 future",
+                "publishedAt": "1:15PM",
+                "link": "#"
+            }
+        ],
+        "mostPopular": [
+            {
+                "title": "McCullum didn’t respect Cricket decision",
+                "publishedAt": "1:15PM",
+                "link": "#",
+                "order": 1
+            },
+            {
+                "title": "Collingwood pair Josh Thomas",
+                "publishedAt": "1:15PM",
+                "link": "#",
+                "order": 2
+            },
+            {
+                "title": "WrestleMania 31 live: WWE highlights",
+                "publishedAt": "1:15PM",
+                "link": "#",
+                "order": 3
+            },
+            {
+                "title": "Brad Haddin: New Zealand deserved it",
+                "publishedAt": "1:15PM",
+                "link": "#",
+                "order": 4
+            },
+            {
+                "title": "Player ratings for Australia’s victory",
+                "publishedAt": "1:15PM",
+                "link": "#",
+                "order": 5
+            },
+            {
+                "title": "Ferguson rule out for four months",
+                "publishedAt": "1:15PM",
+                "link": "#",
+                "order": 6
+            },
+            {
+                "title": "Magpies ‘shellshocked’ by positive test",
+                "publishedAt": "1:15PM",
+                "link": "#",
+                "order": 7
+            },
+            {
+                "title": "Why Georgievski chose Macedonia",
+                "publishedAt": "1:15PM",
+                "link": "#",
+                "order": 8
+            },
+            {
+                "title": "When will the carnage end at the Reds?",
+                "publishedAt": "1:15PM",
+                "link": "#",
+                "order": 9
+            },
+            {
+                "title": "Nadal loses his mind over water bottle",
+                "publishedAt": "1:15PM",
+                "link": "#",
+                "order": 10
+            }
+        ]
+    }
+}
